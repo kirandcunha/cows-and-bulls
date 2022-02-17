@@ -1,0 +1,26 @@
+{
+    "short_name": "Cows And Bulls",
+    "name": "Cows And Bulls Word Game",
+    "description": "Game comes up with a four-letter word and the player tries to guess it. At each turn the player tries a four-letter word, and the Game says how close it is to the answer by giving: The number of Bulls - letters correct in the right position.   The number of Cows - letters correct but in the wrong position. The Player tries to guess the answer in the fewest number of turns.",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "64x64",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "logo256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "logo512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
