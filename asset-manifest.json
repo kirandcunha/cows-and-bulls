@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/cows-and-bulls/static/css/main.617271ed.css",
-    "main.js": "/cows-and-bulls/static/js/main.277b25b0.js",
+    "main.js": "/cows-and-bulls/static/js/main.cc5d43e7.js",
     "service-worker.js": "/cows-and-bulls/service-worker.js",
     "index.html": "/cows-and-bulls/index.html"
   },
   "entrypoints": [
     "static/css/main.617271ed.css",
-    "static/js/main.277b25b0.js"
+    "static/js/main.cc5d43e7.js"
   ]
 }
