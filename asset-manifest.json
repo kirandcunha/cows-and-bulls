@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/cows-and-bulls/static/css/main.1e074fb7.css",
-    "main.js": "/cows-and-bulls/static/js/main.54904688.js",
+    "main.css": "/cows-and-bulls/static/css/main.efa7eab9.css",
+    "main.js": "/cows-and-bulls/static/js/main.460b2fc0.js",
     "service-worker.js": "/cows-and-bulls/service-worker.js",
     "index.html": "/cows-and-bulls/index.html"
   },
   "entrypoints": [
-    "static/css/main.1e074fb7.css",
-    "static/js/main.54904688.js"
+    "static/css/main.efa7eab9.css",
+    "static/js/main.460b2fc0.js"
   ]
 }
