@@ -1,11 +1,14 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../cows-and-bulls-src"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../cows-and-bulls-src"
+    },
+    {
+      "path": "../cows-and-bulls-lg"
+    }
+  ],
+  "settings": {}
 }
